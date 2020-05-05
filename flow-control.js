@@ -3,7 +3,6 @@ function basicTeenager(age) {
     return "You are a teenager!"
   }
 }
-basicTeenager(14)
 
 function teenager(age) {
   if (13 < age < 19) {
